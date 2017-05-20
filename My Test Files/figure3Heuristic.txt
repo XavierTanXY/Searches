@@ -1,0 +1,8 @@
+Node_ID Distance_to_Goal
+
+A 120	
+B 80
+C 75
+D 65
+E 30
+F 25

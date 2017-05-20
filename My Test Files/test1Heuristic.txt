@@ -1,0 +1,1 @@
+Node_ID Distance_to_GoalB 24.3C 22.8D 18.2E 19.1F 16.5G 16.2H 15.2I 15.4J 9.6K 5.5L 6.5M 2.8N 3.5

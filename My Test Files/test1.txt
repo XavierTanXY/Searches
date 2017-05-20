@@ -1,0 +1,16 @@
+A B 2
+A C 4
+B D 5
+C F 5
+D E 3
+K G 2
+D H 5
+H I 2
+H M 13
+M O 3
+M N 1
+F J 8
+J K 4
+J L 2
+K N 2
+N O 4

@@ -1,0 +1,9 @@
+A B 50
+A C 50
+B C 10 
+C D 15
+B F 25
+D F 5
+C F 20
+F E 20
+E G 45

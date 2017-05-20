@@ -1,0 +1,10 @@
+#!/bin/bash
+@echo off
+clear
+echo "=============== Starting Script =============="
+echo "===============    Compiling    =============="
+javac *.java
+echo "=========== Starting A Star Search ==========="
+java AStarSearchMain $1 $2 $3 $4
+echo "============= Exited A Star Search ==========="
+echo "================ Ending Script ==============="

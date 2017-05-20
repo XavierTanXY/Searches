@@ -1,0 +1,10 @@
+#!/bin/bash
+@echo off
+clear
+echo "=============== Starting Script =============="
+echo "===============    Compiling    =============="
+javac *.java
+echo "============ Starting Beam Search ============"
+java BeamSearchMain $1 $2 $3 $4 $5
+echo "============== Exited Beam Search ============"
+echo "================ Ending Script ==============="
